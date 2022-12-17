@@ -46,7 +46,7 @@ function App() {
   const messageColor = incomingMessage != null ? 'green' : 'red';
   const batteryColor = batteryLevel <= 90 ? 'red' : 'green';
   const currentDate = new Date();
-
+// aaaaaaaaaaaaa
   
   const handleChange = (selectedOption) => {
     setSelectedOption(selectedOption);
